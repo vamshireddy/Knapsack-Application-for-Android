@@ -1,6 +1,9 @@
 Knapsack-Project
 ================
 
-This a friendly application for thief. It suggests the thief to rob the items in a house in such a way that he/she could get max value out of it.
+* This Application uses Knapsack algorithm to suggest the best valued items for a theif to put in a sack of certain weight.
+* It has a nicer GUI on android
 
-Its done on Android.
+###Usage:
+
+* Go to bin directory and copy the apk file to your device and install it.
