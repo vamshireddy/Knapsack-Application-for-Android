@@ -1,9 +1,7 @@
-Knapsack-Project
+Knapsack Project for Android
 ================
+* This application is written on Android to suggest valuable items from a knapsack of items.
+* It helps thiefs in deciding the items to steal :D
 
-* This Application uses Knapsack algorithm to suggest the best valued items for a theif to put in a sack of certain weight.
-* It has a nicer GUI on android
-
-###Usage:
-
+## Usage:
 * Go to bin directory and copy the apk file to your device and install it.
